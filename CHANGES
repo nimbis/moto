@@ -1,3 +1,7 @@
+1.4.0+nimbis.2rc1 (TBD):
+
+	* Add govcloud to lambda backends.
+
 1.4.0+nimbis.1 (2018-05-04):
 
     * Extend SSM backend with the ListCommands endpoint.
