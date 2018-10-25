@@ -41,7 +41,7 @@ else:
 
 setup(
     name='moto',
-    version='1.5.0+nimbis.1',
+    version='1.5.0+nimbis.3',
     description='A library that allows your python tests to easily'
                 ' mock out the boto library',
     author='Steve Pulec',
